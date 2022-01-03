@@ -7,7 +7,7 @@
 - [samples](samples.json)
 
 ## **Deployed Site URL**:
-- [plotlydeploy](helyxm.github.io/plotlydeploy)
+- (helyxm.github.io/plotlydeploy)
 
 
 ## **Introduction**:
