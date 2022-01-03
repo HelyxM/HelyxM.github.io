@@ -8,7 +8,7 @@
 
 ## **Deployed Site URL**:
 - (https://helyxm.github.io/plotlydeploy/)
-- ![dashboard_image](module12_challenge_dashboard)
+- ![module12_challenge_dashboard](module12_challenge_dashboard)
 
 
 ## **Introduction**:
