@@ -1,0 +1,22 @@
+body {
+    color: #19fae7;
+    background-color: rgb(7, 3, 51);
+  }
+div {
+    background-color: rgb(7, 3, 51);
+  }
+select {
+    background-color: rgb(7, 3, 51);
+  }
+
+h5 {
+    background-color: rgb(7, 3, 51);
+  }
+.jumbotron {
+    background-color: rgb(7, 3, 51);
+    background-image: url("../bacteria.jpg");
+    text-align: center;
+  }
+.well {
+    background-color: rgb(7, 3, 51);
+}
