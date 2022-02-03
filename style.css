@@ -14,7 +14,7 @@ h5 {
   }
 .jumbotron {
     background-color: rgb(7, 3, 51);
-    background-image: ("../bacteria.PNG");
+    background-image: ("../bacteria.png");
     text-align: center;
   }
 .well {
