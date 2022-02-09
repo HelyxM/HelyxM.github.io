@@ -14,7 +14,11 @@ h5 {
   }
 .jumbotron {
     background-color: rgb(7, 3, 51);
+<<<<<<< HEAD
     background-image: ("images/bacteria.png");
+=======
+    background-image: ("https://github.com/HelyxM/plotlydeploy/blob/main/bacteria.png");
+>>>>>>> 1f6c19504b61094f6da5bb537dbc29738c58c96a
     text-align: center;
   }
 .well {
